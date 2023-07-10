@@ -1,0 +1,2 @@
+to generate service class automaticly paste command:
+ng generate service service/server
